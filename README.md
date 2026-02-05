@@ -1,4 +1,4 @@
-# Parametric Analysis of Wall Thermal Conductivity on the Performance of Segmented Microchannel Methanol Reformers
+# Parametric Analysis of Wall Thermal Conductivity on the Performance of Segmented Microchannel Methanol Steam Reformers
 
 <p align="center">
 <img src="./results/3D_Surface_Plot.png" alt="3D Thermal Response Surface Plot" style="width:90%; height:auto; object-fit: cover;">
