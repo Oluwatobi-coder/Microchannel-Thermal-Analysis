@@ -54,7 +54,7 @@ cd Microchannel-Thermal-Analysis
 
 ### 2. Run the Analysis
 
-Open MATLAB, navigate to the repo folder, and run the main `microchannel_analysis` script:
+Open MATLAB, navigate to the repo folder, and run the `microchannel_analysis` script:
 
 ```matlab
 >> microchannel_analysis
