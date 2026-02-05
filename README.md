@@ -4,7 +4,7 @@
 <img src="./results/3D_Surface_Plot.png" alt="3D Thermal Response Surface Plot" style="width:90%; height:auto; object-fit: cover;">
 </p>
 
-This project implements a parametric analysis of wall thermal conductivity on the operational stability of methanol steam reforming reactors. By using CFD simulation datasets, the study quantifies the transition from thermally unstable to isothermal regimes. The analysis identifies a **critical transition threshold at $k_w \approx 6.0$ W/m-K** and establishes an optimal engineering design range of **$6.0 < k_w < 20.0$ W/m-K**, offering a **3.3-fold increase in heat transfer efficiency** at the critical reactor inlet.
+This project implements a parametric analysis of wall thermal conductivity on the operational stability of methanol steam reforming reactors. By using CFD simulation datasets, the study quantifies the transition from thermally unstable to isothermal regimes. The analysis identifies a **critical transition threshold at $k_w \approx 6.0$** W/m-K and establishes an optimal engineering design range of **$6.0 < k_w < 20.0$** W/m-K, offering a **3.3-fold increase in heat transfer efficiency** at the critical reactor inlet.
 
 ## 📌 Project Overview
 
